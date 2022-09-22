@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Prabhjot Kaur ](mailto:prabhjot.kaur@owasp.org)
+* [Saurabh Kashyap](mailto:saurabh.kashyap@owasp.org)
