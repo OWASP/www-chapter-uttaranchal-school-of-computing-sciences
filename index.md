@@ -8,7 +8,7 @@ meetup-group:
 
 ---
 
-<div style='color:red;'>
+<div style='color:blue;'>
 
  Uttaranchal School of Computing Sciences student chapter of OWASP welcomes you to its official page
 <ul>
